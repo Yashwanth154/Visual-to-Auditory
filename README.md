@@ -1,2 +1,3 @@
-# Visual-to-Auditory
-This Project is developed to convert visually appearing text data into audio files.This is a Group Project
+# Visual-to-Auditory-Transformation
+A project on Image to Text to Speech for Indian Languages
+This is a team project.
